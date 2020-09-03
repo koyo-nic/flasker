@@ -1,0 +1,14 @@
+click
+dataclasses
+Flask
+itsdangerous
+Jinja2
+libcst
+MarkupSafe
+MonkeyType
+mypy-extensions
+PyYAML
+typing-extensions
+typing-inspect
+Werkzeug
+
